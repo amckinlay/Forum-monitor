@@ -1,0 +1,8 @@
+# Add error handling
+# Write tests
+# Consider using Twilio Python lib
+# Add modular url forming
+# Refactor with OO
+# Store thread IDs and do file IO better
+# Document
+# Add deployment hook
